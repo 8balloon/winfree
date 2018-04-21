@@ -1,0 +1,21 @@
+{
+  "name": "winfrey",
+  "version": "1.0.0",
+  "description": "execute a function when nothing else is going on",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8balloon/winfree.git"
+  },
+  "keywords": [
+    "idle",
+    "background",
+    "lazy"
+  ],
+  "author": "Ethan Gregory Clark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/8balloon/winfree/issues"
+  },
+  "homepage": "https://github.com/8balloon/winfree#readme"
+}
