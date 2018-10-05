@@ -1,4 +1,4 @@
-# winfree
+# winfrey
 
 Execute a function when nothing else is going on. 
 
