@@ -7,9 +7,9 @@ Works in the browser (IE10+) or in node (0.7.6+)
 ## example
 
 ```
-const winfree = require('winfree')
+const winfrey = require('winfrey')
 
-winfree(() => {
+winfrey(() => {
     doAnalyticsOrOptimizationOrWhatever()
 })
 

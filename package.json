@@ -1,11 +1,11 @@
 {
   "name": "winfrey",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "execute a function when nothing else is going on",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/8balloon/winfree.git"
+    "url": "git+https://github.com/8balloon/winfrey.git"
   },
   "keywords": [
     "idle",
@@ -15,7 +15,7 @@
   "author": "Ethan Gregory Clark",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/8balloon/winfree/issues"
+    "url": "https://github.com/8balloon/winfrey/issues"
   },
-  "homepage": "https://github.com/8balloon/winfree#readme"
+  "homepage": "https://github.com/8balloon/winfrey#readme"
 }
